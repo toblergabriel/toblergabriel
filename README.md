@@ -1,9 +1,12 @@
 <div align="center">
-
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:222&height=120&section=header)
+![Stats](https://github-readme-stats.vercel.app/api?username=toblergabriel&show_icons=true&theme=dark)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=toblergabriel&layout=compact&theme=dark)
+  
 # Gabriel Tobler
 
 **🇧🇷 [Português](#-português) · 🇺🇸 [English](#-english)**
-
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:222&height=120&section=header)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-francisco-andretta-tobler-412a50386)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=githubpages&logoColor=white)](https://toblergabriel.github.io/Gabriel-Page/)
 
